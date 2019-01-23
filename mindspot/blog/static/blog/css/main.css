@@ -1,0 +1,16 @@
+.navigation__bar {
+    background: rgba(0,0,0,0.4) !important;
+    filter: alpha(opacity=40) !important;
+}
+
+.jumbotron {
+    background: white;
+}
+
+a {
+    color: black;
+}
+
+.post__form{
+    color: white;
+}
