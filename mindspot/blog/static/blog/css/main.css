@@ -14,3 +14,8 @@ a {
 .post__form{
     color: white;
 }
+
+.post__detail__button__section {
+ text-align: center;
+ display: inline-block;
+}
